@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+S10T49,S50T249,11.7784,0.0,6.093,17.4638,True
+S10T49,S_GE250,20.7297,0.0,15.0534,26.4061,True
+S50T249,S_GE250,8.9513,0.0007,3.2705,14.6322,True
